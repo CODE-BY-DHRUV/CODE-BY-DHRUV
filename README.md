@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 - PENTAKILL – Dark metal energy  
 - ARCANE – Cinematic intelligence  -->
 
-Your profile = **League Champion meets Software Engineer**
+<!--**League Champion meets Software Engineer**>
 
 ---
 

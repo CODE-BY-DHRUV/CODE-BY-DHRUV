@@ -99,11 +99,11 @@ Software Developer • Problem Solver • DSA / Java Specialist
 
 ## 📊 POWER LEVEL — GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CODE-BY-DHRUV&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=E0E0E0&border_radius=20&cache_seconds=1800" width="48%" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CODE-BY-DHRUV&theme=tokyonight&bg_color=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=20&cache_seconds=1800" width="48%" />
-</p>
+</p>-->
 
 
 <!--“You don’t need permission to code like a legend.”-->
@@ -129,6 +129,6 @@ Software Developer • Problem Solver • DSA / Java Specialist
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer&text=⚔️++READY+FOR+BATTLE++⚔️&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer&text=⚔️++READY+FOR+BATTLE++⚔️&fontSize=28&fontColor=#000000" />
 </p>
 

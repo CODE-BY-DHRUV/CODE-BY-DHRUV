@@ -37,17 +37,8 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=CODE-BY-DHRUV&section=header&fontSize=48&fontColor=ffffff&animation=twinkling" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F2FF&width=850&lines=Dhruv+Sharma+⚔️+Software+Developer;Problem+Solving+×+DSA+×+Java+×+Python;Building+Systems+Like+a+Champion" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l2SpRb6Q1a0jXkBvq/giphy.gif" width="850"/>
-</p>
 
 
 ---

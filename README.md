@@ -76,12 +76,6 @@ Here are some ideas to get you started:
 ---
 
 
-## 🔥 LeetCode Activity
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/DhruvX-J?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</p>
-
 ---
 
 

@@ -17,104 +17,136 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,20:203a43,40:2c5364,60:203a43,80:0f2027,100:000000&height=220&section=header&text=CODE-BY-DHRUV&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
-</p>
-
----
-
-
-
-<h1 align="center">Hi 👋, I'm Dhruv </h1>
-<h3 align="center">👨‍💻 CODE-BY-DHRUV | Future Software Developer  -- DhruvX-J</h3>
+<!--
+  ===================================================================
+   CODE-BY-DHRUV — LEAGUE OF LEGENDS × COMPUTER SCIENCE PROFILE
+   Theme: Cinematic | Professional | Dark | Neon | Powerful | Clean
+  ===================================================================
+-->
 
 <p align="center">
-  <b>Building logic. Solving problems. Creating impact.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=CODE-BY-DHRUV&section=header&fontSize=48&fontColor=ffffff&animation=twinkling" />
 </p>
-
----
-
-## 💡 About Me
-
-- 📍 Based in India
-- 🧠 Strong in **Problem Solving & Data Structures and Algorithms**
-- 💻 Focused on becoming a **Professional Software Developer**
-- 🚀 Currently working with **Java, C, Python, MySQL & Oracle**
-- 🔍 Interested in **real-world software & AI-based applications**
-
----
-
-## 🛠 Skills & Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem_Solving-darkblue?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DhruvX-J&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvX-J&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F2FF&width=850&lines=Dhruv+Sharma+⚔️+Software+Developer;Problem+Solving+×+DSA+×+Java+×+Python;Building+Systems+Like+a+Champion" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2SpRb6Q1a0jXkBvq/giphy.gif" width="850"/>
 </p>
 
 ---
 
+## 🏹 CHAMPION PROFILE — (About Me)
+
+> Born in logic. Forged in problem-solving. Coded for impact.
+
+- 👑 **Name**: Dhruv Sharma (CODE-BY-DHRUV)
+- 🎯 **Role**: Software Developer (In Progress)
+- 🧠 **Specialization**: Data Structures, Algorithms, System Logic
+- ⚡ **Core Strength**: Problem Solving mindset
+- 🏗️ **Goal**: Build scalable, intelligent, high-performance applications
 
 ---
 
+## ⚔️ ABILITIES — My Core Skill Set
 
-## 🚀 Projects & Work Focus
+<p align="center">
 
-- 🔹 AI Face Recognition Attendance System
-- 🔹 Data Structures & Algorithms Practice
-- 🔹 Java & Python Applications
-- 🔹 Full Stack Development
+<img src="https://img.shields.io/badge/Java-0A1C2C?style=for-the-badge&logo=oracle&logoColor=orange"/>
+<img src="https://img.shields.io/badge/C-081A2F?style=for-the-badge&logo=c&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-030B1A?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-111F35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-001F3F?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Oracle-330000?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/OOPs-1A1A2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networks-181818?style=for-the-badge"/>
 
-*(Many more coming soon…)*
+</p>
 
 ---
 
-## 🎯 Current Mission
+## 🗡️ BATTLE HISTORY — Projects
 
-✔️ Master DSA  
-✔️ Strengthen problem-solving skills  
-✔️ Build powerful projects  
-✔️ Crack a Software Developer role  
+⚡ **AI Face Recognition Attendance System**  
+- Real-time face detection & recognition  
+- Database-backed attendance tracking  
+- Built using Python + OpenCV + SQL
+
+⚡ **DSA Problem Library**
+- Optimized solutions
+- Clean implementations in Java & C
+- Covers arrays, strings, stacks, recursion, trees, graphs
+
+⚡ **Backend Development Practice**
+- Java-based system modules
+- Database interactions with MySQL/Oracle
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/xT9DPCU60w1MZG3q7C/giphy.gif" width="260"/>
+</p>
 
 ---
 
-<!--{"variant":"standard","title":"Compact Social Links (Icons Only)","id":"73184"}-->
+## 📊 POWER LEVEL — GitHub Stats
 
-<h3 align="center">🌐 Let’s Connect</h3>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=DhruvX-J&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvX-J&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="65%" src="https://github-profile-trophy.vercel.app/?username=DhruvX-J&theme=algolia&no-frame=true"/>
+</p>
+
+---
+
+## 🔥 TRAINING ARC — LeetCode Heatmap
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DhruvX-J?theme=dark&font=Orbitron&ext=heatmap" />
+</p>
+
+---
+
+## 🌌 THE REALM — Connect With Me
 
 <p align="center">
   <a href="https://github.com/DhruvX-J">
-    <img src="https://img.icons8.com/color/48/github--v1.png"/>
+    <img src="https://img.icons8.com/fluency/48/github.png"/>
   </a>
-
   <a href="mailto:officialdhruvsharma18@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png"/>
   </a>
-
   <a href="https://www.linkedin.com/in/dhruv-sharma-029048324/">
-    <img src="https://img.icons8.com/color/48/linkedin--v1.png"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
   </a>
 </p>
 
-<h3 align="center">⚡ CODE-BY-DHRUV ⚡</h3>
+---
+
+## 🎵 BACKGROUND VIBE
+
+> “Legends are not born. They’re forged in code.”
+
+**Suggested LoL styles your profile now reflects:**
+- K/DA – Neon Cyberpower  
+- TRUE DAMAGE – Hacker / street tech  
+- PENTAKILL – Dark metal energy  
+- ARCANE – Cinematic intelligence  
+
+Your profile = **League Champion meets Software Engineer**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer&text=⚔️++READY+FOR+BATTLE++⚔️&fontSize=28&fontColor=ffffff" />
+</p>
+

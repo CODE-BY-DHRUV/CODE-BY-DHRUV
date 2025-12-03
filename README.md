@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   ===================================================================
 -->
 <h1 align="center">
-⚔️ <span style="color:#7F00FF;">CODE-BY-DHRUV</span> – <span style="color:#00E5FF;">THE ALGORITHM SLAYER</span> ⚔️
+⚔️ <span style="color:#7F00FF;">CODE-BY-DHRUV</span> – <span style="color:#00E5FF;">DhruvX-J</span> ⚔️
 </h1>
 
 <h3 align="center">
-Software Developer • Problem Solver • DSA / Java Specialist
+Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=7F00FFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Neon+Tech+Realm;Problem+Solving+%7C+DSA+%7C+Java+%7C+Python;Grinding+LeetCode+%26+Codeforces+Daily" />
@@ -37,9 +37,12 @@ Software Developer • Problem Solver • DSA / Java Specialist
 
 ## 🏹 CHAMPION PROFILE — (About Me)
 
-> Born in logic. Forged in problem-solving. Code for impact.
+> Born in logic.
+> Forged in problem-solving.
+> Code for impact.
+<!--The Algorithm Slayer-->
 
-- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J
+- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J -- 
 - 🎯 **Role**: Software Developer (In Progress)
 - 🧠 **Specialization**: Data Structures, Algorithms, System Logic
 - ⚡ **Core Strength**: Problem Solving mindset
@@ -89,6 +92,9 @@ Software Developer • Problem Solver • DSA / Java Specialist
 ⚡ **Cloud Deployment & Hosting using modern platforms for high availability and performance**
 
 
+---
+
+
 <div style="float: right;">
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
@@ -108,11 +114,13 @@ Software Developer • Problem Solver • DSA / Java Specialist
 
 <!--“You don’t need permission to code like a legend.”-->
 
+
 ## 🌌 THE REALM — Connect With Me
 
 <p align="center"> <a href="https://linkedin.com/in/dhruv-sharma-029048324/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://X.com/XploreWithDhruv"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x-dot-com&logoColor=white"></a> <a href="https://leetcode.com/u/DhruvX-J/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://codeforces.com/profile/DhruvX-J"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
 
 ---
+
 
 ## 🎵 BACKGROUND VIBE
 
@@ -125,6 +133,7 @@ Software Developer • Problem Solver • DSA / Java Specialist
 - ARCANE – Cinematic intelligence  -->
 
 <!--**League Champion meets Software Engineer**-->
+
 
 ---
 

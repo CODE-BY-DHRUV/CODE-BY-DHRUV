@@ -129,6 +129,6 @@ Software Developer • Problem Solver • DSA / Java Specialist
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=#000000&height=120&section=footer&text=⚔️++READY+FOR+BATTLE++⚔️&fontSize=28&fontColor=#ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=footer&text=⚔️++READY+FOR+BATTLE++⚔️&fontSize=28&fontColor=ffffff" />
 </p>
 

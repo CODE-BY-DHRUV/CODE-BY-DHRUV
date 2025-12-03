@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-{"variant":"standard","title":"Code by Dhruv - GitHub Profile README","id":"90537"}
+
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">👨‍💻 CODE-BY-DHRUV | Future Software Developer  -- DhruvX-J</h3>
 

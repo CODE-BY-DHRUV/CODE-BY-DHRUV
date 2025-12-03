@@ -33,16 +33,36 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=7F00FFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Neon+Tech+Realm;Problem+Solving+%7C+DSA+%7C+Java+%7C+Python;Grinding+LeetCode+%26+Codeforces+Daily" />
 </p>
+<!--champion profile-->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=CODE-BY-DHRUV&section=header&fontSize=48&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F2FF&width=850&lines=Dhruv+Sharma+⚔️+Software+Developer;Problem+Solving+×+DSA+×+Java+×+Python;Building+Systems+Like+a+Champion" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2SpRb6Q1a0jXkBvq/giphy.gif" width="850"/>
+</p>
 
 
-## 🏹 CHAMPION PROFILE — (About Me)
+---
 
-> Born in logic.
-> Forged in problem-solving.
-> Code for impact.
+
+
+
+## 🏹 PROFILE — (About Me)
+
+ Born in logic.
+ Forged in problem-solving.
+ Code for impact.
 <!--The Algorithm Slayer-->
 
-- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J -- 
+- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J 
 - 🎯 **Role**: Software Developer (In Progress)
 - 🧠 **Specialization**: Data Structures, Algorithms, System Logic
 - ⚡ **Core Strength**: Problem Solving mindset

@@ -117,11 +117,11 @@ Here are some ideas to get you started:
 
 > “Legends are not born. They’re forged in code.”
 
-**Suggested LoL styles your profile now reflects:**
+<!--**Suggested LoL styles your profile now reflects:**
 - K/DA – Neon Cyberpower  
 - TRUE DAMAGE – Hacker / street tech  
 - PENTAKILL – Dark metal energy  
-- ARCANE – Cinematic intelligence  
+- ARCANE – Cinematic intelligence  -->
 
 Your profile = **League Champion meets Software Engineer**
 

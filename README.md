@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 - 🔹 AI Face Recognition Attendance System
 - 🔹 Data Structures & Algorithms Practice
 - 🔹 Java & Python Applications
-- 🔹 Database Projects (MySQL / Oracle)
+- 🔹 Full Stack Development
 
 *(Many more coming soon…)*
 

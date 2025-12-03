@@ -23,13 +23,23 @@ Here are some ideas to get you started:
    Theme: Cinematic | Professional | Dark | Neon | Powerful | Clean
   ===================================================================
 -->
+<h1 align="center">
+⚔️ <span style="color:#7F00FF;">CODE-BY-DHRUV</span> – <span style="color:#00E5FF;">THE ALGORITHM SLAYER</span> ⚔️
+</h1>
+
+<h3 align="center">
+Software Developer • Problem Solver • DSA / Java Specialist
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=7F00FFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Neon+Tech+Realm;Problem+Solving+%7C+DSA+%7C+Java+%7C+Python;Grinding+LeetCode+%26+Codeforces+Daily" />
+</p>
 
 
 ## 🏹 CHAMPION PROFILE — (About Me)
 
 > Born in logic. Forged in problem-solving. Code for impact.
 
-- 👑 **Name**: Dhruv Sharma (CODE-BY-DHRUV)
+- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J
 - 🎯 **Role**: Software Developer (In Progress)
 - 🧠 **Specialization**: Data Structures, Algorithms, System Logic
 - ⚡ **Core Strength**: Problem Solving mindset
@@ -79,24 +89,28 @@ Here are some ideas to get you started:
 ⚡ **Cloud Deployment & Hosting using modern platforms for high availability and performance**
 
 
-<p align="center">
+<div style="float: right;">
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
-  
-</p>
+</div>
+<div style="clear: both;"></div>
 
 ---
 
 ## 📊 POWER LEVEL — GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CODE-BY-DHRUV&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=E0E0E0&border_radius=20" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=CODE-BY-DHRUV&theme=tokyonight&bg_color=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=20" width="48%" /> </p>
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CODE-BY-DHRUV&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=E0E0E0&border_radius=20&cache_seconds=1800" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CODE-BY-DHRUV&theme=tokyonight&bg_color=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=20&cache_seconds=1800" width="48%" />
+</p>
+
 
 <!--“You don’t need permission to code like a legend.”-->
 
 ## 🌌 THE REALM — Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/dhruv-sharma-029048324/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://x.com/XploreWithDhruv"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a> <a href="https://leetcode.com/u/DhruvX-J/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://codeforces.com/profile/DhruvX-J"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/dhruv-sharma-029048324/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://X.com/XploreWithDhruv"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x-dot-com&logoColor=white"></a> <a href="https://leetcode.com/u/DhruvX-J/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://codeforces.com/profile/DhruvX-J"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
 
 ---
 

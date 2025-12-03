@@ -48,12 +48,12 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 
 ## 🏹 PROFILE — (About Me)
 
- Born in logic.
- Forged in problem-solving.
- Code for impact.
+> Born in logic.
+> Forged in problem-solving.
+> Code for impact.
 <!--The Algorithm Slayer-->
 
-- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J 
+- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J --
 - 🎯 **Role**: Software Developer (In Progress)
 - 🧠 **Specialization**: Data Structures, Algorithms, System Logic
 - ⚡ **Core Strength**: Problem Solving mindset

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🏹 CHAMPION PROFILE — (About Me)
 
-> Born in logic. Forged in problem-solving. Coded for impact.
+> Born in logic. Forged in problem-solving. Code for impact.
 
 - 👑 **Name**: Dhruv Sharma (CODE-BY-DHRUV)
 - 🎯 **Role**: Software Developer (In Progress)
@@ -82,31 +82,21 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/xT9DPCU60w1MZG3q7C/giphy.gif" width="260"/>
+  
 </p>
 
 ---
 
 ## 📊 POWER LEVEL — GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=code-by-dhruv&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-by-dhruv&theme=tokyonight&hide_border=true" height="180em"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CODE-BY-DHRUV&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=E0E0E0&border_radius=20" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=code-by-dhruv&theme=tokyonight&bg_color=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=20" width="48%" /> </p>
 ---
 
 <!--“You don’t need permission to code like a legend.”-->
 
 ## 🌌 THE REALM — Connect With Me
 
-<p align="center">
-  <a href="https://github.com/DhruvX-J">
-    <img src="https://img.icons8.com/fluency/48/github.png"/>
-  </a>
-  <a href="mailto:officialdhruvsharma18@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dhruv-sharma-029048324/">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-  </a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://twitter.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a> <a href="https://leetcode.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://codeforces.com/profile/YOUR_USERNAME"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
 
 ---
 

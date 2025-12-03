@@ -85,12 +85,22 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌐 Let’s Connect
+{"variant":"standard","title":"Compact Social Links (Icons Only)","id":"73184"}
+<h3 align="center">🌐 Let’s Connect</h3>
 
-🐙 GitHub: https://github.com/DhruvX-J  
-📧 Email: officialdhruvsharma18@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/dhruv-sharma-029048324/
----
+<p align="center">
+  <a href="https://github.com/DhruvX-J">
+    <img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/>
+  </a>
+
+  <a href="mailto:officialdhruvsharma18@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/24/000000/new-post.png"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/dhruv-sharma-029048324/">
+    <img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png"/>
+  </a>
+</p>
 
 <h3 align="center">⚡ CODE-BY-DHRUV ⚡</h3>
 

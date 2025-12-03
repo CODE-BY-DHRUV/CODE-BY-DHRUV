@@ -60,19 +60,24 @@ Here are some ideas to get you started:
 
 ## 🗡️ BATTLE HISTORY — Projects
 
-⚡ **AI Face Recognition Attendance System**  
+<!--⚡ **AI Face Recognition Attendance System**  
 - Real-time face detection & recognition  
 - Database-backed attendance tracking  
-- Built using Python + OpenCV + SQL
+- Built using Python + OpenCV + SQL-->
 
 ⚡ **DSA Problem Library**
 - Optimized solutions
-- Clean implementations in Java & C
+- Clean implementations in Java 
 - Covers arrays, strings, stacks, recursion, trees, graphs
 
 ⚡ **Backend Development Practice**
 - Java-based system modules
 - Database interactions with MySQL/Oracle
+
+⚡ **End-to-end Full Stack Applications with dynamic frontends and scalable backend systems**
+
+⚡ **Cloud Deployment & Hosting using modern platforms for high availability and performance**
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
@@ -84,18 +89,10 @@ Here are some ideas to get you started:
 
 ## 📊 POWER LEVEL — GitHub Stats
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=DhruvX-J&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvX-J&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-profile-trophy.vercel.app/?username=DhruvX-J&theme=algolia&no-frame=true"/>
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=code-by-dhruv&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-by-dhruv&theme=tokyonight&hide_border=true" height="180em"/> </p>
 ---
 
-
+<!--“You don’t need permission to code like a legend.”-->
 
 ## 🌌 THE REALM — Connect With Me
 

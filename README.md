@@ -89,14 +89,14 @@ Here are some ideas to get you started:
 
 ## 📊 POWER LEVEL — GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CODE-BY-DHRUV&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=E0E0E0&border_radius=20" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=code-by-dhruv&theme=tokyonight&bg_color=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=20" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CODE-BY-DHRUV&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=E0E0E0&border_radius=20" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=CODE-BY-DHRUV&theme=tokyonight&bg_color=0D1117&ring=7F00FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=20" width="48%" /> </p>
 ---
 
 <!--“You don’t need permission to code like a legend.”-->
 
 ## 🌌 THE REALM — Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://twitter.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a> <a href="https://leetcode.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://codeforces.com/profile/YOUR_USERNAME"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/dhruv-sharma-029048324/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://x.com/XploreWithDhruv"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a> <a href="https://leetcode.com/u/DhruvX-J/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://codeforces.com/profile/DhruvX-J"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
 
 ---
 
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 - PENTAKILL – Dark metal energy  
 - ARCANE – Cinematic intelligence  -->
 
-<!--**League Champion meets Software Engineer**>
+<!--**League Champion meets Software Engineer**-->
 
 ---
 

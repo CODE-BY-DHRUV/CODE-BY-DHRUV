@@ -88,10 +88,9 @@ Here are some ideas to get you started:
 ## 🌐 Let’s Connect
 
 🐙 GitHub: https://github.com/DhruvX-J  
-📧 Email: add_your_email  
-💼 LinkedIn: add_your_link  
-
+📧 Email: officialdhruvsharma18@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/dhruv-sharma-029048324/
 ---
 
-<h3 align="center">⚡ code-by-dhruv ⚡</h3>
+<h3 align="center">⚡ CODE-BY-DHRUV ⚡</h3>
 

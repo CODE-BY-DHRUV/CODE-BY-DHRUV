@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,20:203a43,40:2c5364,60:203a43,80:0f2027,100:000000&height=220&section=header&text=CODE-BY-DHRUV&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+</p>
+
+---
+
+
+
+<h1 align="center">Hi 👋, I'm Dhruv </h1>
 <h3 align="center">👨‍💻 CODE-BY-DHRUV | Future Software Developer  -- DhruvX-J</h3>
 
 <p align="center">
@@ -56,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 My GitHub Activity
+## 📊 My GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DhruvX-J&show_icons=true&theme=tokyonight" />
@@ -64,6 +74,16 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+
+## 🔥 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DhruvX-J?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
+---
+
 
 ## 🚀 Projects & Work Focus
 
@@ -85,22 +105,22 @@ Here are some ideas to get you started:
 
 ---
 
-{"variant":"standard","title":"Compact Social Links (Icons Only)","id":"73184"}
+<!--{"variant":"standard","title":"Compact Social Links (Icons Only)","id":"73184"}-->
+
 <h3 align="center">🌐 Let’s Connect</h3>
 
 <p align="center">
   <a href="https://github.com/DhruvX-J">
-    <img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/>
+    <img src="https://img.icons8.com/color/48/github--v1.png"/>
   </a>
 
   <a href="mailto:officialdhruvsharma18@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/24/000000/new-post.png"/>
+    <img src="https://img.icons8.com/color/48/gmail--v1.png"/>
   </a>
 
   <a href="https://www.linkedin.com/in/dhruv-sharma-029048324/">
-    <img src="https://img.icons8.com/ios-glyphs/24/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/48/linkedin--v1.png"/>
   </a>
 </p>
 
 <h3 align="center">⚡ CODE-BY-DHRUV ⚡</h3>
-

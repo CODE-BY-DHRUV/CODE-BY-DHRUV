@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">
-Upcoming Software Developer • Problem Solver • DSA / Java Specialist
+Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA 
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=7F00FFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Neon+Tech+Realm;Problem+Solving+%7C+DSA+%7C+Java+%7C+Python;Grinding+LeetCode+%26+Codeforces+Daily" />
@@ -106,11 +106,9 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 ---
 
 
-<div style="float: right;">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260" align="center"/>
-  <!--<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>-->
+<div style="display: flex; justify-content: center;">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260" />
 </div>
-<div style="clear: both;"></div>
 
 ---
 

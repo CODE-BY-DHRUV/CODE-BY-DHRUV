@@ -107,7 +107,7 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 
 
 <div style="float: right;">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260" align="center"/>
   <!--<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>-->
 </div>
 <div style="clear: both;"></div>

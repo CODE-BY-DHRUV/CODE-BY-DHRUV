@@ -108,7 +108,7 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 
 <div style="float: right;">
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
+  <!--<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>-->
 </div>
 <div style="clear: both;"></div>
 
@@ -132,10 +132,10 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 
 ---
 
-
+<!--
 ## 🎵 BACKGROUND VIBE
-
-> “Legends are not born. They’re forged in code.”
+ 
+> “Legends are not born. They’re forged in code.”  -->
 
 <!--**Suggested LoL styles your profile now reflects:**
 - K/DA – Neon Cyberpower  
@@ -148,7 +148,7 @@ Upcoming Software Developer • Problem Solver • DSA / Java Specialist
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=footer&text=⚔️++READY+FOR+BATTLE++⚔️&fontSize=28&fontColor=ffffff" />
-</p>
+</p>-->
 

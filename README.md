@@ -102,6 +102,7 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 
 ⚡ **Cloud Deployment & Hosting using modern platforms for high availability and performance**
 
+⚡  App Development
 
 ---
 

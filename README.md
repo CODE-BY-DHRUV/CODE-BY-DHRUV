@@ -111,6 +111,13 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
   <p>
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260" />
    <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
+    <p align="right">
+  <img 
+    src="assets/marvel-lol-programmer.png" 
+    width="280"
+    alt="League x Marvel Programmer"
+  />
+</p>
 </p>
 </div>
 

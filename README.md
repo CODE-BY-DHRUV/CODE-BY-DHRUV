@@ -108,8 +108,13 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 
 
 <div style="display: flex; justify-content: center;">
+  <p>
   <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260" />
+   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
+</p>
 </div>
+
+
 
 ---
 

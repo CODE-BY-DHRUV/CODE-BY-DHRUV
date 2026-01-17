@@ -128,8 +128,7 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 </p>-->
 
 
-<!--“You don’t need permission to code like a legend.”-->
-
+“You don’t need permission to code like a legend.”
 
 ## 🌌 THE REALM — Connect With Me
 
@@ -137,10 +136,10 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 
 ---
 
-<!--
+
 ## 🎵 BACKGROUND VIBE
  
-> “Legends are not born. They’re forged in code.”  -->
+> “Legends are not born. They’re forged in code.”  
 
 <!--**Suggested LoL styles your profile now reflects:**
 - K/DA – Neon Cyberpower  

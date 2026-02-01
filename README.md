@@ -53,7 +53,7 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 > Code for impact.
 <!--The Algorithm Slayer-->
 
-- 👑 **Name**: CODE-BY-DHRUV -- DhruvX-J --
+- 👑 **Name**: CODE-BY-DHRUV -- Dhruv Sharma --
 - 🎯 **Role**: Software Developer (In Progress)
 - 🧠 **Specialization**: Data Structures, Algorithms, System Logic
 - ⚡ **Core Strength**: Problem Solving mindset

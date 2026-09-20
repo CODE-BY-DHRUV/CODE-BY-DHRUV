@@ -140,9 +140,8 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 ## 🎵 BACKGROUND VIBE
  
 > “Legends are not born. They’re forged in code.”
-> “Balle balle te Java Java,
-   Piyo piyo te kawa kawa!” 🔥
-
+> “Balle balle te shava shava,
+>  Piyo piyo te Java Java!” 🔥
 <!--**Suggested LoL styles your profile now reflects:**
 - K/DA – Neon Cyberpower  
 - TRUE DAMAGE – Hacker / street tech  

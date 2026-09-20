@@ -141,8 +141,8 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
  
 > “Legends are not born. They’re forged in code.”<br>
 
-> “Balle balle te shava shava,<br>
->  Piyo piyo te Java Java!” 🔥
+<!--> “Balle balle te shava shava,<br>
+   <!--Piyo piyo te Java Java!” 🔥
 <!--**Suggested LoL styles your profile now reflects:**
 - K/DA – Neon Cyberpower  
 - TRUE DAMAGE – Hacker / street tech  

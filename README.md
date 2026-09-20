@@ -139,7 +139,8 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 
 ## 🎵 BACKGROUND VIBE
  
-> “Legends are not born. They’re forged in code.”
+> “Legends are not born. They’re forged in code.”<br>
+
 > “Balle balle te shava shava,<br>
 >  Piyo piyo te Java Java!” 🔥
 <!--**Suggested LoL styles your profile now reflects:**

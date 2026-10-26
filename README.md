@@ -113,11 +113,8 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
    <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="260"/>
     <p align="right">
 </p>
-  ## 🥋 Kung Fu Mode
 <p align="center">
-  <img src="./assets/kung-fu.gif"
-       width="250"
-       alt="Kung Fu animation" />
+  <img src="./assets/kung-fu.gif" width="250" alt="Kung Fu animation">
 </p>
 </div>
 

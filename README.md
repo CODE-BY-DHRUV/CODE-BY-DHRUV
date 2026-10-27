@@ -114,7 +114,7 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
     <p align="right">
 </p>
 <p align="center">
-  <img src="./assets/tenor.gif" width="250" alt="Kung Fu animation">
+  <img src="assets/tenor.gif" width="250" alt="Kung Fu animation">
 </p>
   
 </div>

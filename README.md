@@ -89,18 +89,18 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 - Database-backed attendance tracking  
 - Built using Python + OpenCV + SQL-->
 
-⚡ **DSA Problem Library**
+⚡ DSA Problem Library
 - Optimized solutions
 - Clean implementations in Java 
 - Covers arrays, strings, stacks, recursion, trees, graphs
 
-⚡ **Backend Development Practice**
+⚡ Backend Development Practice
 - Java-based system modules
 - Database interactions with MySQL/Oracle
 
-⚡ **End-to-end Full Stack Applications with dynamic frontends and scalable backend systems**
+⚡ End-to-end Full Stack Applications with dynamic frontends and scalable backend systems
 
-⚡ **Cloud Deployment & Hosting using modern platforms for high availability and performance**
+⚡ Cloud Deployment & Hosting using modern platforms for high availability and performance
 
 ⚡  App Development
 
@@ -114,8 +114,9 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
     <p align="right">
 </p>
 <p align="center">
-  <img src="./assets/kung-fu.gif" width="250" alt="Kung Fu animation">
+  <img src="./assets/tenor.gif" width="250" alt="Kung Fu animation">
 </p>
+  
 </div>
 
 

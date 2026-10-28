@@ -1,4 +1,4 @@
-## Hi there 👋
+-## Hi there 👋
 
 <!--
 **CODE-BY-DHRUV/CODE-BY-DHRUV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -119,9 +119,13 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
 <p align="left">
   <img src="./assets/tenor(2).gif" width="250" alt="Cat Animation">
 </p>
-<p align="left">
-  <img src="./assets/dizzy-dizzy-stars.gif" width="250" alt="Cat Animation">
+<p align="right">
+  <img src="./assets/dizzy-dizzy-stars.gif" width="250" alt="Stars Animation">
 </p>
+<p align="center">
+  <img src="./assets/dizzy-dizzy-stars.gif" width="250" alt="Eye Animation">
+</p>
+  
 </div>
 
 

@@ -123,7 +123,7 @@ Upcoming Software Developer  • Java Specialist • Problem Solver/ DSA
   <img src="./assets/dizzy-dizzy-stars.gif" width="250" alt="Stars Animation">
 </p>
 <p align="center">
-  <img src="./assets/dizzy-dizzy-stars.gif" width="250" alt="Eye Animation">
+  <img src="./assets/tenor(4).gif" width="250" alt="Eye Animation">
 </p>
   
 </div>

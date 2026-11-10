@@ -229,8 +229,6 @@ Your financial circumstances do not define your intellectual capabilities, and y
 
 
 
-
-
 ## 📊 POWER LEVEL — GitHub Stats
 
 <!--<p align="center">
